@@ -4,16 +4,21 @@
 
 To setup sublime text First, you have to download these files and extract them;
 
-# I Think sublime text setup steps are similar in all Os.... 
+#I Think sublime text setup steps are similar in all Os.... 
 
-#Linux_Setup [Iam using arch linux]:
+# Linux_Setup [Iam using arch linux]:
 
-#Sublime Setup:-->
+# Installing sublime text-
+1. Open terminal;
+2. Wrtite down "sudo pacman -S sublime-text";
+3. By fellowing those steps you can easily install sublime-text;
+4. If you can't Install sublime text. Then either you can fellow Google,Youtube,or Chat-GPT 
+
+# Sublime Setup:-->
 
 1. First Install Sublime text in your sysetem;
-2. If you can't Install sublime text. Then either you can fellow Google,Youtube,or Chat-GPT 
-3. Then Those files you extracted copy to this path : /home/user_name/.config/sublime-text-3/
-4. In user_name part give your system username;
+2. Then Those files you extracted copy to this path : /home/user_name/.config/sublime-text-3/
+3. In user_name part give your system username;
 
 #Font-Familly:-->
 1. First Download the font, You want to setup for Sublime-text;
